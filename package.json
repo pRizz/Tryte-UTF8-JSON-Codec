@@ -1,0 +1,24 @@
+{
+  "name": "tryteutf8jsoncodec",
+  "version": "1.0.0",
+  "description": "An alternative encoding/decoding scheme for IOTA trytes supporting UTF-8 and JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pRizz/TryteUTF8JSONCodec.git"
+  },
+  "keywords": [
+    "iota",
+    "tryte",
+    "codec"
+  ],
+  "author": "Peter Ryszkiewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pRizz/TryteUTF8JSONCodec/issues"
+  },
+  "homepage": "https://github.com/pRizz/TryteUTF8JSONCodec#readme"
+}
